@@ -1,8 +1,6 @@
 Sublime Text Packages
 =====================
 
-*Author:* Bradley Spaulding
-
 Usage
 -----
 
