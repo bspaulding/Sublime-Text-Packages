@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 <% columns ${1:12}, ${2:options} do -%>
-  $3
+  ${3:$SELECTION}
 <% end -%>
 ]]></content>
   <tabTrigger>columns</tabTrigger>

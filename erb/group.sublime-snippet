@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 <% group ${1:options} do -%>
-  $2
+  ${2:$SELECTION}
 <% end -%>
 ]]></content>
   <tabTrigger>group</tabTrigger>
