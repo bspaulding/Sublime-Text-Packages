@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<% columns ${1:12}, ${2:options} do -%>
+  $3
+<% end -%>
+]]></content>
+  <tabTrigger>columns</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>grid columns block</description>
+</snippet>

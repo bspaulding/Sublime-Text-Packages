@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<% section :${1:name}, ${2:options} do -%>
+  $3
+<% end -%>
+]]></content>
+  <tabTrigger>section</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>section block</description>
+</snippet>

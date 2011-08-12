@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<% group ${1:options} do -%>
+  $2
+<% end -%>
+]]></content>
+  <tabTrigger>group</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>css group block</description>
+</snippet>
